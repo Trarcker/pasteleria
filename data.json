@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "nombre": "Pastel de Chocolate",
+    "precio": 15000
+  },
+  {
+    "id": 2,
+    "nombre": "Pastel de Vainilla",
+    "precio": 12000
+  },
+  {
+    "id": 3,
+    "nombre": "Cheesecake de Frambuesa",
+    "precio": 18000
+  }
+]
