@@ -1,0 +1,2 @@
+body { font-family: Arial, sans-serif; padding: 20px; }
+form { display: flex; flex-direction: column; width: 300px; gap: 10px; }

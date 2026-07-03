@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Tienda de Pasteles</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Pastelería Dulce Sabor</h1>
+    <form id="pedidoForm">
+        <input type="text" id="nombre" placeholder="Tu nombre" required>
+        <input type="email" id="email" placeholder="Correo electrónico" required>
+        <select id="pastel"><option value="Chocolate">Chocolate</option><option value="Vainilla">Vainilla</option></select>
+        <input type="number" id="cantidad" placeholder="Cantidad" required>
+        <button type="submit">Hacer Pedido</button>
+        <p id="error-msg" style="color:red;"></p>
+    </form>
+    <h2>Mis Pedidos</h2>
+    <ul id="listaPedidos"></ul>
+    <script src="script.js"></script>
+</body>
+</html>
