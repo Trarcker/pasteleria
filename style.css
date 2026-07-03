@@ -1,2 +1,4 @@
-body { font-family: Arial, sans-serif; padding: 20px; }
-form { display: flex; flex-direction: column; width: 300px; gap: 10px; }
+body { font-family: 'Segoe UI', sans-serif; background-color: #fdf2f8; padding: 40px; }
+h1 { color: #db2777; }
+li { background: white; margin: 5px 0; padding: 10px; border-radius: 5px; list-style: none; display: flex; justify-content: space-between; width: 300px; }
+button { cursor: pointer; background: #be185d; color: white; border: none; padding: 5px; border-radius: 3px; }
