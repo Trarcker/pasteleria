@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BakeryPOS.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+997c2f176577aa574cf3cf0cc0b4fdfbaa1d731d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80eb3c70303eb7917c6d099485cc998240c18e6b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BakeryPOS.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BakeryPOS.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

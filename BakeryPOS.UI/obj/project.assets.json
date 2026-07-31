@@ -1474,11 +1474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alons\\Desktop\\panaderia\\pasteleria\\BakeryPOS.UI\\BakeryPOS.UI.csproj",
+      "projectUniqueName": "C:\\Users\\alons\\Desktop\\pasteleria-main\\pasteleria\\BakeryPOS.UI\\BakeryPOS.UI.csproj",
       "projectName": "BakeryPOS.UI",
-      "projectPath": "C:\\Users\\alons\\Desktop\\panaderia\\pasteleria\\BakeryPOS.UI\\BakeryPOS.UI.csproj",
+      "projectPath": "C:\\Users\\alons\\Desktop\\pasteleria-main\\pasteleria\\BakeryPOS.UI\\BakeryPOS.UI.csproj",
       "packagesPath": "C:\\Users\\alons\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alons\\Desktop\\panaderia\\pasteleria\\BakeryPOS.UI\\obj\\",
+      "outputPath": "C:\\Users\\alons\\Desktop\\pasteleria-main\\pasteleria\\BakeryPOS.UI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1501,8 +1501,8 @@
           "framework": "net8.0-windows7.0",
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\alons\\Desktop\\panaderia\\pasteleria\\BakeryPOS.Core\\BakeryPOS.Core.csproj": {
-              "projectPath": "C:\\Users\\alons\\Desktop\\panaderia\\pasteleria\\BakeryPOS.Core\\BakeryPOS.Core.csproj"
+            "C:\\Users\\alons\\Desktop\\pasteleria-main\\pasteleria\\BakeryPOS.Core\\BakeryPOS.Core.csproj": {
+              "projectPath": "C:\\Users\\alons\\Desktop\\pasteleria-main\\pasteleria\\BakeryPOS.Core\\BakeryPOS.Core.csproj"
             }
           }
         }

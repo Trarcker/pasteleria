@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kQ3H9IajtEc=",
+  "dgSpecHash": "rOcJxDqKJOM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\alons\\Desktop\\panaderia\\pasteleria\\BakeryPOS.UI\\BakeryPOS.UI.csproj",
+  "projectFilePath": "C:\\Users\\alons\\Desktop\\pasteleria-main\\pasteleria\\BakeryPOS.UI\\BakeryPOS.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alons\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
     "C:\\Users\\alons\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.2\\microsoft.data.sqlite.core.8.0.2.nupkg.sha512",

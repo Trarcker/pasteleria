@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BakeryPOS.UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a52c668e989354a571830e916bed7224d4087c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80eb3c70303eb7917c6d099485cc998240c18e6b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BakeryPOS.UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BakeryPOS.UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
